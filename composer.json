@@ -14,7 +14,9 @@
         "yiisoft/yii2": ">=2.0.5",
         "yiisoft/yii2-bootstrap": "*",
         "yiisoft/yii2-swiftmailer": "*",
-        "alexinator1/yii2-jta": "*"
+        "alexinator1/yii2-jta": "*",
+        "codeception/specify": "*",
+        "codeception/verify": "*"
     },
     "require-dev": {
         "codeception/codeception": "*",
