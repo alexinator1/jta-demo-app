@@ -7,15 +7,17 @@ $this->title = 'Junction table attributes demo yii2 application';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h2>Junction table attributes demo yii2 application (Yii version:<?= \Yii:: getVersion() ?>)</h2>
+        <h2>Junction table attributes demo yii2 application (Yii version:<?= \Yii:: getVersion() ?>) <a href="https://github.com/alexinator1/jta-demo-app"></a></h2>
 
-        <p class="lead">for testing various cases of using <a href="https://github.com/alexinator1/yii2-jta"></a></p>
+        <p class="lead">for testing various cases of using <a href="https://github.com/alexinator1/yii2-jta">Yii2 Junction Table Attributes extension</a></p>
     </div>
+
+
 
     <div class="body-content">
 
-        This application shows different cases of using <a href="https://github.com/alexinator1/yii2-jta"></a>. Below you may see junction table, to minimize risk of  confusing all user ids starts from '1' and all groups ids starts with '2'.
-        Also in roles names includes accordance between user and group ids for esier checking.
+        This application shows different cases of using <a href="https://github.com/alexinator1/yii2-jta">jta-extension</a>. Below you may see junction table, to minimize risk of  confusing all user ids starts from '1' and all groups ids starts with '2'.
+        Also in roles names includes accordance between user and group ids for easier checking.
 
         <h3>Junction table:</h3>
 
