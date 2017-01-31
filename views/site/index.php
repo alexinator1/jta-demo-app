@@ -9,12 +9,12 @@ $this->title = 'Junction table attributes demo yii2 application';
     <div class="jumbotron">
         <h2>Junction table attributes demo yii2 application (Yii version:<?= \Yii:: getVersion() ?>)</h2>
 
-        <p class="lead">for testing various cases of using extenstion</p>
+        <p class="lead">for testing various cases of using <a href="https://github.com/alexinator1/yii2-jta"></a></p>
     </div>
 
     <div class="body-content">
 
-        This application shows different cases of using extension. Below you may see junction table, to minimize risk of  confusing all user ids starts from '1' and all groups ids starts with '2'.
+        This application shows different cases of using <a href="https://github.com/alexinator1/yii2-jta"></a>. Below you may see junction table, to minimize risk of  confusing all user ids starts from '1' and all groups ids starts with '2'.
         Also in roles names includes accordance between user and group ids for esier checking.
 
         <h3>Junction table:</h3>
